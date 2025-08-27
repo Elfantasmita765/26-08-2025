@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\26-08-2025\Bacardi_R34\bin\Debug\net9.0\Bacardi_R34.exe
+C:\Users\PC\Desktop\26-08-2025\Bacardi_R34\bin\Debug\net9.0\Bacardi_R34.deps.json
+C:\Users\PC\Desktop\26-08-2025\Bacardi_R34\bin\Debug\net9.0\Bacardi_R34.runtimeconfig.json
+C:\Users\PC\Desktop\26-08-2025\Bacardi_R34\bin\Debug\net9.0\Bacardi_R34.dll
+C:\Users\PC\Desktop\26-08-2025\Bacardi_R34\bin\Debug\net9.0\Bacardi_R34.pdb
+C:\Users\PC\Desktop\26-08-2025\Bacardi_R34\obj\Debug\net9.0\Bacardi_R34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\26-08-2025\Bacardi_R34\obj\Debug\net9.0\Bacardi_R34.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\26-08-2025\Bacardi_R34\obj\Debug\net9.0\Bacardi_R34.AssemblyInfo.cs
+C:\Users\PC\Desktop\26-08-2025\Bacardi_R34\obj\Debug\net9.0\Bacardi_R34.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\26-08-2025\Bacardi_R34\obj\Debug\net9.0\Bacardi_R34.sourcelink.json
+C:\Users\PC\Desktop\26-08-2025\Bacardi_R34\obj\Debug\net9.0\Bacardi_R34.dll
+C:\Users\PC\Desktop\26-08-2025\Bacardi_R34\obj\Debug\net9.0\refint\Bacardi_R34.dll
+C:\Users\PC\Desktop\26-08-2025\Bacardi_R34\obj\Debug\net9.0\Bacardi_R34.pdb
+C:\Users\PC\Desktop\26-08-2025\Bacardi_R34\obj\Debug\net9.0\Bacardi_R34.genruntimeconfig.cache
+C:\Users\PC\Desktop\26-08-2025\Bacardi_R34\obj\Debug\net9.0\ref\Bacardi_R34.dll

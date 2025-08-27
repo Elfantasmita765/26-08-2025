@@ -1,6 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-
 Personas persona = new Personas();
 var persona1 = new Personas();
 Estudiantes persona2 = new Estudiantes();
